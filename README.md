@@ -83,7 +83,7 @@ I am **Phan Huy**, a software engineer specializing in **web and game developmen
   <a href="mailto:phan.huy@email.com">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=00F5A0" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/phan-huy/">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Wykowjbu">
