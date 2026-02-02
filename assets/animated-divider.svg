@@ -1,4 +1,5 @@
 <svg width="100%" height="6" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <title>Animated section divider</title>
   <defs>
     <linearGradient id="grad-divider" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f5a0">

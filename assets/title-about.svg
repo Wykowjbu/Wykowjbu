@@ -1,4 +1,5 @@
 <svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
+  <title>About Me section heading</title>
   <defs>
     <linearGradient id="grad-about" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f5a0" />
