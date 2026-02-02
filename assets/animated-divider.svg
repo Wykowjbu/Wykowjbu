@@ -1,19 +1,24 @@
 <svg width="100%" height="6" viewBox="0 0 1200 6" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
   <title>Animated section divider</title>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .divider-animate {
+        display: none;
+      }
+    }
+  </style>
   <defs>
     <linearGradient id="grad-divider" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#00f5a0">
-        <animate attributeName="stop-color" values="#00f5a0;#00d9ff;#a855f7;#00f5a0" dur="6s" repeatCount="indefinite" />
+        <animate class="divider-animate" attributeName="stop-color" values="#00f5a0;#00d9ff;#a855f7;#00f5a0" dur="6s" repeatCount="indefinite" />
       </stop>
       <stop offset="50%" stop-color="#00d9ff">
-        <animate attributeName="stop-color" values="#00d9ff;#a855f7;#00f5a0;#00d9ff" dur="6s" repeatCount="indefinite" />
+        <animate class="divider-animate" attributeName="stop-color" values="#00d9ff;#a855f7;#00f5a0;#00d9ff" dur="6s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#a855f7">
-        <animate attributeName="stop-color" values="#a855f7;#00f5a0;#00d9ff;#a855f7" dur="6s" repeatCount="indefinite" />
+        <animate class="divider-animate" attributeName="stop-color" values="#a855f7;#00f5a0;#00d9ff;#a855f7" dur="6s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
   </defs>
-  <rect width="1200" height="6" rx="3" fill="url(#grad-divider)">
-    <animate attributeName="width" values="0;1200;0" dur="12s" repeatCount="indefinite" />
-  </rect>
+  <rect width="1200" height="6" rx="3" fill="url(#grad-divider)" />
 </svg>
