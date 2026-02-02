@@ -81,7 +81,7 @@ I'm a passionate **Software Engineer** specializing in **Web & Game Development*
 
 <div align="center">
 
-<a href="https://github.com/Wykowjbu/project1">
+<a href="https://github.com/Wykowjbu/Wykowjbu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Wykowjbu&repo=Wykowjbu&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
 </a>
 
@@ -95,10 +95,15 @@ I'm a passionate **Software Engineer** specializing in **Web & Game Development*
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wykowjbu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phanhuy)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/phanhuy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@phanhuy.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://phanhuy.dev)
+
+<!-- 
+Uncomment and update these links with your actual social media profiles:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio.com)
+-->
 
 </div>
 
